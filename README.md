@@ -1,18 +1,32 @@
 ## Greetings! 👋
-I'm Deji Ehinlanwo, a seasoned Full-Stack Developer driven by a passion for architecting robust solutions and mastering the intricacies of backend development.
+I'm Deji Ehinlanwo, a seasoned Full-Stack Developer passionate about crafting robust solutions and mastering backend development.
 
+# ABOUT ME 🚀
 
-ABOUT ME 🚀
-🏢 Currently leveraging my skills at Movinn to create impactful digital experiences
-⚙️ Fluent in the languages of code: .cs, .sql, .ts, .css, .html, .rs
-🌍 A devotee of the eloquence and efficiency of Rust
-📝 My toolkit is adorned with the craftsmanship of Jetbrains and Visual Studio Code
-💻 Enthusiastic practitioner of the artistry of Arch Linux, with a nod to the pragmatism of Mac OS
+* 🏢 Currently at Movinn, crafting impactful digital experiences
+* ⚙️ Fluent in: .cs, .sql, .ts, .css, .html, .rs
+* 🌍 A fan of Rust's eloquence and efficiency
+* 📝 Tools of choice: Jetbrains, Visual Studio Code
+* 💻 Enthusiastic about Arch Linux, but also pragmatic with Mac OS
+* 🚀 Excited about blockchain technology and its potential applications
+* 📱 Experienced in developing mobile applications with frameworks like React Native
+* 🤖 Intrigued by the possibilities of machine learning and AI in revolutionizing software development
 
-ADDITIONAL INSIGHTS 💡
-🧠 Constantly exploring new technologies to sharpen my craft
-📚 Committed to continuous learning and professional development
-🌱 Advocating for clean code principles and agile methodologies
-🎯 Focused on delivering scalable and maintainable solutions that exceed expectations
+# ADDITIONAL INSIGHTS 💡
 
-Let's collaborate and elevate your projects to new heights! ✨
+* 🧠 Always exploring new technologies and methodologies
+* 📚 Committed to continuous learning through online courses and tech communities
+* 🌱 Advocate for clean code, test-driven development, and CI/CD pipelines
+* 🎯 Focused on delivering scalable, maintainable solutions that exceed expectations
+* 🌐 Fluent in RESTful API design and microservices architecture
+A
+# ADDITIONAL SKILLS 💼
+* 🔧 Proficient in Docker, utilizing it for containerization, deployment, and scaling applications
+* 🔧 Experienced in creating Docker images, optimizing container configurations, and managing Dockerized environments
+* 🔧 Skilled in Docker Compose for orchestrating multi-container applications and defining complex service architectures
+* 🔧 Familiar with Docker Swarm for container orchestration in distributed systems
+* 🛠️ Proficient in JavaScript frameworks like React and Angular for front-end development
+* 📊 Familiar with data analytics tools such as Python's Pandas and Matplotlib
+* 🚀 Knowledgeable in cloud platforms like AWS and Azure for scalable solutions
+
+Let's collaborate and elevate your projects! ✨
