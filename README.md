@@ -1,7 +1,7 @@
-## Greetings! 👋
+## Hi Everyone! 👋
 I'm Deji Ehinlanwo, a seasoned Full-Stack Developer passionate about crafting robust solutions and mastering backend development.
 
-# ABOUT ME 🚀
+### ABOUT ME 🚀
 
 * 🏢 Currently at Movinn, crafting impactful digital experiences
 * ⚙️ Fluent in: .cs, .sql, .ts, .css, .html, .rs
@@ -12,15 +12,15 @@ I'm Deji Ehinlanwo, a seasoned Full-Stack Developer passionate about crafting ro
 * 📱 Experienced in developing mobile applications with frameworks like React Native
 * 🤖 Intrigued by the possibilities of machine learning and AI in revolutionizing software development
 
-# ADDITIONAL INSIGHTS 💡
+### ADDITIONAL INSIGHTS 💡
 
 * 🧠 Always exploring new technologies and methodologies
 * 📚 Committed to continuous learning through online courses and tech communities
 * 🌱 Advocate for clean code, test-driven development, and CI/CD pipelines
 * 🎯 Focused on delivering scalable, maintainable solutions that exceed expectations
 * 🌐 Fluent in RESTful API design and microservices architecture
-A
-# ADDITIONAL SKILLS 💼
+
+### ADDITIONAL SKILLS 💼
 * 🔧 Proficient in Docker, utilizing it for containerization, deployment, and scaling applications
 * 🔧 Experienced in creating Docker images, optimizing container configurations, and managing Dockerized environments
 * 🔧 Skilled in Docker Compose for orchestrating multi-container applications and defining complex service architectures
