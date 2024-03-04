@@ -1,9 +1,18 @@
-Hi there 👋
-My name is Deji Ehinlanwo. I'm currently mainly working as a Full-Stack Developer, but my passion will always be software architecture and backend development
+## Greetings! 👋
+I'm Deji Ehinlanwo, a seasoned Full-Stack Developer driven by a passion for architecting robust solutions and mastering the intricacies of backend development.
 
-BIO
-🏢 I'm currently working at Movinn A/S
-⚙️ I use daily: .cs, .sql, .ts, .css, .html, .rs
-🌍 My favorite programming language is probably Rust
-📝 Best IDEs? Everything from Jetbrains and Visual Studio Code
-💻 Arch Linux is my favorite operating system, but i work on Mac too
+
+ABOUT ME 🚀
+🏢 Currently leveraging my skills at Movinn to create impactful digital experiences
+⚙️ Fluent in the languages of code: .cs, .sql, .ts, .css, .html, .rs
+🌍 A devotee of the eloquence and efficiency of Rust
+📝 My toolkit is adorned with the craftsmanship of Jetbrains and Visual Studio Code
+💻 Enthusiastic practitioner of the artistry of Arch Linux, with a nod to the pragmatism of Mac OS
+
+ADDITIONAL INSIGHTS 💡
+🧠 Constantly exploring new technologies to sharpen my craft
+📚 Committed to continuous learning and professional development
+🌱 Advocating for clean code principles and agile methodologies
+🎯 Focused on delivering scalable and maintainable solutions that exceed expectations
+
+Let's collaborate and elevate your projects to new heights! ✨
