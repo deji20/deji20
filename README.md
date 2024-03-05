@@ -1,5 +1,5 @@
 ## Hi Everyone! 👋
-I'm Deji Ehinlanwo, a seasoned Full-Stack Developer passionate about crafting robust solutions and mastering backend development.
+I'm Deji Ehinlanwo, a seasoned Developer passionate about crafting robust solutions and mastering backend development.
 
 ### ABOUT ME 🚀
 
